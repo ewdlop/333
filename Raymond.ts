@@ -8,4 +8,4 @@ type EvilRaymond = {
   evilPlans: number; //<----lame
 };
 
-type Raymond = AngleRaymond | EvilRaymond;(I didn't tag)
+type Raymond = AngleRaymond | EvilRaymond;//(I didn't tag)
