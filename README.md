@@ -36,3 +36,8 @@ original:
 Oh Identity theft is trying to act like I have a splitting personality disorder LOLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
 
 (personal going end up in severed Permanent Head Damage. Praise to Sigmund Freud)
+
+
+## Conclusion:
+
+In holy trinity, human thinks they are the holy sprits.
