@@ -1,5 +1,9 @@
 # 333
 
+## GOD: me :ＪＥＳＵＳ
+
+### ＪＥＳＵＳ：ｍｅ：ＤＥＶＩｌ
+
 I joked about this using
 
 ```typescript
